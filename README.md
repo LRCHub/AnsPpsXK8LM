@@ -1,0 +1,71 @@
+# IVE – Ice Queen
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+(I-I-I'm in the castle)
+다가오지 못하고 망설여 다들
+해치지 않아 난
+연습하고 활짝 웃어 보여도
+어울리지 않나 봐
+사람들은 말해 있잖아 쟤는
+서늘해 좀 어딘가
+But I don't care (I don't)
+No, I don't care
+(Don't care at all)
+그때 날 향해 걸어오는 너
+어쭈, 겁 없네?
+Who's that who's that
+who's that boy?
+Hold up
+I-I-I'm in the castle
+절벽 끝에 높고 뾰족한 집
+나의 맘은 dry ice 영하의 온도
+얼음처럼 섬뜩 차가운 queen
+I-I-I wanna listen
+궁금해 넌 무슨 말을 할지
+그 새하얀 입김 사이로 어디
+한 번 뱉어보겠니
+Woo ah
+Woo
+감당할 수 있겠니
+나쁘지는 않아 그 넘치는 패기
+생긴 것도 제법 cute (He's cute)
+한여름의 태양 같은 그 눈빛
+눈을 뗄 수 없거든
+너라면 좀 어떨까
+함께해도 좋을까
+상상을 좀 해봤어
+You and me 모르지
+그때 날 향해 손을 내민 너
+어쭈, 겁 없네?
+Who's that who's that
+who's that boy?
+Hold up
+I-I-I'm in the castle
+절벽 끝에 높고 뾰족한 집
+나의 맘은 dry ice 영하의 온도
+얼음처럼 섬뜩 차가운 queen
+I-I-I wanna listen
+궁금해 넌 무슨 말을 할지
+그 새하얀 입김 사이로 어디
+한 번 뱉어보겠니
+Oh, 그래 혹시 혹시
+만일 만일 너라면
+이런 내 마음도 녹일 수 있을지도
+까짓 사랑 그따위
+한 번 해볼까 어디
+Ay, 각오했니 You ready?
+Watch it burn, hold up
+I-I-I'm in the castle
+절벽 끝에 높고 뾰족한 집
+나의 맘은 dry ice 영하의 온도
+얼음처럼 섬뜩 차가운 queen
+I-I-I wanna listen
+궁금해 넌 무슨 말을 할지
+그 새하얀 입김 사이로 어디
+한 번 뱉어보겠니
+Woo ah
+Woo
+(I-I-I'm in the castle)
+```
