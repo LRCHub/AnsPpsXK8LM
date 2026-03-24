@@ -1,0 +1,400 @@
+{
+  "version": 1,
+  "base_track": "Ice Queen",
+  "base_artist": "IVE",
+  "createdAt": "2026-03-24T21:46:10.533469Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ice Queen",
+      "artist": "The Stranglers",
+      "has_synced": true,
+      "path": "select/01_Ice_Queen_The_Stranglers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ice Queen",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/02_Ice_Queen_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ice Queen",
+      "artist": "Within Temptation",
+      "has_synced": false,
+      "path": "select/03_Ice_Queen_Within_Temptation.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ice Queen (Acoustic at \"MXL\")",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/04_Ice_Queen_(Acoustic_at__MXL_)_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ice Queen (Acoustic at MXL)",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/05_Ice_Queen_(Acoustic_at_MXL)_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ice Queen (Acoustic)",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/06_Ice_Queen_(Acoustic)_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ice Queen - Elements Live in Concert",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/07_Ice_Queen_-_Elements_Live_in_Concert_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ice Queen (Hydra Live in Concert)",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/08_Ice_Queen_(Hydra_Live_in_Concert)_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ice Queen - Live at Leidse Kade",
+      "artist": "Within Temptation",
+      "has_synced": false,
+      "path": "select/09_Ice_Queen_-_Live_at_Leidse_Kade_Within_Temptation.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ice Queen (Leidse Kade Live)",
+      "artist": "Within Temptation",
+      "has_synced": false,
+      "path": "select/10_Ice_Queen_(Leidse_Kade_Live)_Within_Temptation.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ice Queen (live acoustic version)",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/11_Ice_Queen_(live_acoustic_version)_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ice Queen (Live at Leidse Kade)",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/12_Ice_Queen_(Live_at_Leidse_Kade)_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ice Queen (Live)",
+      "artist": "Within Temptation",
+      "has_synced": false,
+      "path": "select/13_Ice_Queen_(Live)_Within_Temptation.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ice Queen",
+      "artist": "Pat Travers",
+      "has_synced": false,
+      "path": "select/14_Ice_Queen_Pat_Travers.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ice Queen",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/15_Ice_Queen_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Put It On Ice",
+      "artist": "Thomas Rhett feat. HARDY",
+      "has_synced": true,
+      "path": "select/16_Put_It_On_Ice_Thomas_Rhett_feat._HARDY.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Put It On Ice",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/17_Put_It_On_Ice_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ice V",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/18_Ice_V_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "The Thin Ice",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/19_The_Thin_Ice_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "냉면-차가운 니 얼굴 (Ice Boy)",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/20_냉면-차가운_니_얼굴_(Ice_Boy)_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Melting Ice",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/21_Melting_Ice_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Melting Ice (The Chaotic Good Remix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/22_Melting_Ice_(The_Chaotic_Good_Remix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Ice Melts",
+      "artist": "Drake feat. Young Thug",
+      "has_synced": true,
+      "path": "select/23_Ice_Melts_Drake_feat._Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Ice Melts (feat. Young Thug)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/24_Ice_Melts_(feat._Young_Thug)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Ice Kisses",
+      "artist": "Zoe Valderrama",
+      "has_synced": false,
+      "path": "select/25_Ice_Kisses_Zoe_Valderrama.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Crystal Clear Ice",
+      "artist": "Yung Lean",
+      "has_synced": false,
+      "path": "select/26_Crystal_Clear_Ice_Yung_Lean.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Ice Cold Smoke",
+      "artist": "Yung Lean",
+      "has_synced": false,
+      "path": "select/27_Ice_Cold_Smoke_Yung_Lean.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Smirnoff Ice",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/28_Smirnoff_Ice_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Snake Ice",
+      "artist": "jonatan leandoer96",
+      "has_synced": true,
+      "path": "select/29_Snake_Ice_jonatan_leandoer96.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Grand Finale (feat. Nas, T.I., Bun B, Jadakiss & Ice Cube)",
+      "artist": "Lil Jon & The East Side Boyz",
+      "has_synced": false,
+      "path": "select/30_Grand_Finale_(feat._Nas,_T.I.,_Bun_B,_Jadakiss_&_Ice_Cube)_Lil_Jon_&_The_East_Side_Boyz.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Ice",
+      "artist": "Lorn",
+      "has_synced": true,
+      "path": "select/31_Ice_Lorn.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Ice Cold",
+      "artist": "Lil Tjay",
+      "has_synced": true,
+      "path": "select/32_Ice_Cold_Lil_Tjay.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Ice Cream",
+      "artist": "lil wayne",
+      "has_synced": true,
+      "path": "select/33_Ice_Cream_lil_wayne.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Queen of Daytona Beach",
+      "artist": "Seaforth feat. Sean Kingston",
+      "has_synced": true,
+      "path": "select/34_Queen_of_Daytona_Beach_Seaforth_feat._Sean_Kingston.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Queen of Daytona Beach",
+      "artist": "Seaforth",
+      "has_synced": true,
+      "path": "select/35_Queen_of_Daytona_Beach_Seaforth.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Ballad of a Teenage Queen",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/36_Ballad_of_a_Teenage_Queen_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "Blue Jean Country Queen (feat. Steve Wariner)",
+      "artist": "Kimberly Kelly feat. Steve Wariner",
+      "has_synced": false,
+      "path": "select/37_Blue_Jean_Country_Queen_(feat._Steve_Wariner)_Kimberly_Kelly_feat._Steve_Wariner.txt"
+    },
+    {
+      "id": "lrclib_38",
+      "source": "lrclib",
+      "title": "Blue Jean Country Queen (feat. Steve Wariner)",
+      "artist": "Kimberly Kelly",
+      "has_synced": false,
+      "path": "select/38_Blue_Jean_Country_Queen_(feat._Steve_Wariner)_Kimberly_Kelly.txt"
+    },
+    {
+      "id": "lrclib_39",
+      "source": "lrclib",
+      "title": "Cleopatra, Queen of Denial",
+      "artist": "Pam Tillis",
+      "has_synced": false,
+      "path": "select/39_Cleopatra,_Queen_of_Denial_Pam_Tillis.txt"
+    },
+    {
+      "id": "lrclib_40",
+      "source": "lrclib",
+      "title": "High Fashion Queen",
+      "artist": "The Flying Burrito Brothers",
+      "has_synced": true,
+      "path": "select/40_High_Fashion_Queen_The_Flying_Burrito_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_41",
+      "source": "lrclib",
+      "title": "Music City Queen (feat. The B-52's)",
+      "artist": "Miranda Lambert feat. The B-52's",
+      "has_synced": true,
+      "path": "select/41_Music_City_Queen_(feat._The_B-52's)_Miranda_Lambert_feat._The_B-52's.lrc"
+    },
+    {
+      "id": "lrclib_42",
+      "source": "lrclib",
+      "title": "Music City Queen",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/42_Music_City_Queen_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_43",
+      "source": "lrclib",
+      "title": "Queen of Hearts (Rerecord)",
+      "artist": "Juice Newton",
+      "has_synced": true,
+      "path": "select/43_Queen_of_Hearts_(Rerecord)_Juice_Newton.lrc"
+    },
+    {
+      "id": "lrclib_44",
+      "source": "lrclib",
+      "title": "Queen Of Hearts",
+      "artist": "Juice Newton",
+      "has_synced": true,
+      "path": "select/44_Queen_Of_Hearts_Juice_Newton.lrc"
+    },
+    {
+      "id": "lrclib_45",
+      "source": "lrclib",
+      "title": "Queen of My Double Wide Trailer",
+      "artist": "Sammy Kershaw",
+      "has_synced": true,
+      "path": "select/45_Queen_of_My_Double_Wide_Trailer_Sammy_Kershaw.lrc"
+    },
+    {
+      "id": "lrclib_46",
+      "source": "lrclib",
+      "title": "Queen Of My Double Wide Trailer",
+      "artist": "Sammy Kershaw",
+      "has_synced": true,
+      "path": "select/46_Queen_Of_My_Double_Wide_Trailer_Sammy_Kershaw.lrc"
+    },
+    {
+      "id": "lrclib_47",
+      "source": "lrclib",
+      "title": "Queen Of My Double Wide Trailer (Album Version)",
+      "artist": "Sammy Kershaw",
+      "has_synced": true,
+      "path": "select/47_Queen_Of_My_Double_Wide_Trailer_(Album_Version)_Sammy_Kershaw.lrc"
+    },
+    {
+      "id": "lrclib_48",
+      "source": "lrclib",
+      "title": "Queen of Memphis (Remastered Album Version)",
+      "artist": "Confederate Railroad",
+      "has_synced": true,
+      "path": "select/48_Queen_of_Memphis_(Remastered_Album_Version)_Confederate_Railroad.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ice Queen",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_Ice_Queen_IVE.txt"
+    }
+  ]
+}
